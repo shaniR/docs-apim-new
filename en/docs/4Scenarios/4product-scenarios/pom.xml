@@ -553,7 +553,7 @@
         <carbon.automationutils.version>4.4.2</carbon.automationutils.version>
         <jacoco.agent.version>0.7.5.201505241946</jacoco.agent.version>
         <carbon.rest.api.version>4.2.2</carbon.rest.api.version>
-        <synapse.version>2.1.7-wso2v80</synapse.version>
+        <synapse.version>3.0.1</synapse.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
